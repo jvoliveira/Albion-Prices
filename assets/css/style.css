@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
+.font-logo{
+  font-family: 'Acme', sans-serif;
+}
+
+.c-red{
+  color:#D41C2D;
+}
