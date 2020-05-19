@@ -10,3 +10,4 @@ A ideia é poder comparar o preço das cidades próximas a sua para vender ou co
 
 # Screenshot
 
+![Imagem](screenshot.png)
