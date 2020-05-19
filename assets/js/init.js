@@ -65,10 +65,10 @@ function pesquisa() {
             +'<div class="row"><div class="col-md-12"><h6 class="my-0"><strong>'+r.city+'</strong></h6></div>'
             +'<div class="col-md-12">'
               
-              +'<small id="sellMin" class="text-muted">Preço de venda mínimo: '+r.sell_price_min+'</small><br>'
-              +'<small id="sellMax" class="text-muted">Preço de venda máximo: '+r.sell_price_max+'</small><br>'
-              +'<small id="buyMin" class="text-muted">Preço de venda mínimo: '+r.buy_price_min+'</small><br>'
-              +'<small id="buyMax" class="text-muted">Preço de venda máximo: '+r.buy_price_max+'</small>'
+              +'<small id="sellMin" class="text-muted">Preço de Venda mínimo: '+r.sell_price_min+'</small><br>'
+              +'<small id="sellMax" class="text-muted">Preço de Venda máximo: '+r.sell_price_max+'</small><br>'
+              +'<small id="buyMin" class="text-muted">Preço de Compra mínimo: '+r.buy_price_min+'</small><br>'
+              +'<small id="buyMax" class="text-muted">Preço de Compra máximo: '+r.buy_price_max+'</small>'
             +'</div></div>'
           +'</li>';
 
